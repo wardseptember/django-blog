@@ -34,15 +34,15 @@
 ## 博客页面效果（响应式）
 - PC 页面效果
 
-![pc](https://user-images.githubusercontent.com/30201215/60588842-93321b80-9dca-11e9-93f2-50e34b2c4b3f.jpg)
+![pc](https://raw.githubusercontent.com/wardseptember/django-blog/master/readme_img/pc.jpg)
 
 - ipad 效果
 
-![ipad](https://user-images.githubusercontent.com/30201215/60588800-7e558800-9dca-11e9-8beb-5d2dcf01b869.jpg)
+![ipad](https://raw.githubusercontent.com/wardseptember/django-blog/master/readme_img/ipad.jpg)
 
 - 手机效果
 
-![iphone](https://user-images.githubusercontent.com/30201215/60588832-8e6d6780-9dca-11e9-84fa-f1d71510c81e.jpg)
+![iphone](https://raw.githubusercontent.com/wardseptember/django-blog/master/readme_img/iphone.jpg)
 
 ## 运行指导
 我的运行环境是centos-release-7-3.1611.el7.centos.x86_64
@@ -96,4 +96,4 @@ cp /usr/lib64/python3.6/configparser.py /usr/lib64/python3.6/ConfigParser.py
 本博客一些功能实现的方法，参考[https://github.com/stacklens/django_blog_tutorial](https://github.com/stacklens/django_blog_tutorial)
 ## 捐赠
 打码不易，欢迎star，如果请我喝水就更棒了。
-![donate](https://raw.githubusercontent.com/wardseptember/django-blog/master/donate.jpg)
+![donate](https://raw.githubusercontent.com/wardseptember/django-blog/master/readme_img/donate.jpg)
