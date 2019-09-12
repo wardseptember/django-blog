@@ -3,9 +3,9 @@
 [![](https://img.shields.io/badge/bootstrap-4.1.3-blue.svg)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 [![](https://img.shields.io/badge/license-MIT-000000.svg)](https://opensource.org/licenses/MIT)
 # 个人博客
-基于python3.6.8、django1.11.12、Bootstrap4、jQuery搭建的简洁优雅的个人博客。
+基于python3.6.8、django1.11.12、Bootstrap4.1.3、JQuery3.0.0搭建的简洁优雅的个人博客。
 
-博客效果： https://wardseptember.top/
+博客效果： https://www.wardseptember.top/
 
 ## 功能介绍
 - Django 自带的后台管理系统，方便对于文章、用户及其他动态内容的管理
@@ -96,3 +96,4 @@ cp /usr/lib64/python3.6/configparser.py /usr/lib64/python3.6/ConfigParser.py
 本博客一些功能实现的方法，参考[https://github.com/stacklens/django_blog_tutorial](https://github.com/stacklens/django_blog_tutorial)
 ## 捐赠
 打码不易，欢迎star，如果请我喝水就更棒了。
+![donate](https://raw.githubusercontent.com/wardseptember/django-blog/master/donate.jpg)
